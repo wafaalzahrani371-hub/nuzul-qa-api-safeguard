@@ -9,5 +9,5 @@ It specifically catches bad date logic (inverted dates causing negative stay dur
 ## How to run:
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/nuzul-qa-api-safeguard.git](https://github.com/YOUR_USERNAME/nuzul-qa-api-safeguard.git)
+ git clone https://github.com/wafaalzahrani371-hub/nuzul-qa-api-safeguard.git
    cd nuzul-qa-api-safeguard
