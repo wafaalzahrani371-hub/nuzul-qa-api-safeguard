@@ -10,3 +10,5 @@ It specifically catches bad date logic (inverted dates causing negative stay dur
 1. Clone this repository:
  git clone https://github.com/wafaalzahrani371-hub/nuzul-qa-api-safeguard.git
    cd nuzul-qa-api-safeguard
+pip install requests
+python test_booking_validation.py
